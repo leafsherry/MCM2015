@@ -1,0 +1,555 @@
+[
+    {
+        "district": 1,
+        "neighbor": [
+            13,
+            2
+        ]
+    },
+    {
+        "district": 2,
+        "neighbor": [
+            1,
+            4
+        ]
+    },
+    {
+        "district": 3,
+        "neighbor": [
+            2,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "district": 4,
+        "neighbor": [
+            2
+        ]
+    },
+    {
+        "district": 5,
+        "neighbor": [
+            6,
+            7
+        ]
+    },
+    {
+        "district": 6,
+        "neighbor": [
+            5,
+            7
+        ]
+    },
+    {
+        "district": 7,
+        "neighbor": [
+            6,
+            5,
+            49,
+            48
+        ]
+    },
+    {
+        "district": 8,
+        "neighbor": [
+            5,
+            7,
+            49,
+            14,
+            10,
+            9
+        ]
+    },
+    {
+        "district": 9,
+        "neighbor": [
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "district": 10,
+        "neighbor": [
+            9,
+            8,
+            14,
+            15,
+            11
+        ]
+    },
+    {
+        "district": 11,
+        "neighbor": [
+            9,
+            10,
+            16,
+            17,
+            12
+        ]
+    },
+    {
+        "district": 12,
+        "neighbor": [
+            13,
+            9,
+            11,
+            17
+        ]
+    },
+    {
+        "district": 13,
+        "neighbor": [
+            1,
+            12,
+            18
+        ]
+    },
+    {
+        "district": 14,
+        "neighbor": [
+            10,
+            8,
+            49,
+            53,
+            24,
+            20,
+            19,
+            15
+        ]
+    },
+    {
+        "district": 15,
+        "neighbor": [
+            16,
+            10,
+            14,
+            19
+        ]
+    },
+    {
+        "district": 16,
+        "neighbor": [
+            17,
+            11,
+            15
+        ]
+    },
+    {
+        "district": 17,
+        "neighbor": [
+            18,
+            13,
+            12,
+            11,
+            16
+        ]
+    },
+    {
+        "district": 18,
+        "neighbor": [
+            13,
+            17
+        ]
+    },
+    {
+        "district": 19,
+        "neighbor": [
+            15,
+            14,
+            20,
+            22
+        ]
+    },
+    {
+        "district": 20,
+        "neighbor": [
+            14,
+            24,
+            21,
+            19
+        ]
+    },
+    {
+        "district": 21,
+        "neighbor": [
+            19,
+            20,
+            24,
+            28,
+            25,
+            22
+        ]
+    },
+    {
+        "district": 22,
+        "neighbor": [
+            19,
+            21,
+            25,
+            23
+        ]
+    },
+    {
+        "district": 23,
+        "neighbor": [
+            22,
+            25
+        ]
+    },
+    {
+        "district": 24,
+        "neighbor": [
+            20,
+            14,
+            53,
+            29,
+            28,
+            21
+        ]
+    },
+    {
+        "district": 25,
+        "neighbor": [
+            22,
+            21,
+            28,
+            26,
+            23
+        ]
+    },
+    {
+        "district": 26,
+        "neighbor": [
+            25,
+            30,
+            32,
+            31,
+            27
+        ]
+    },
+    {
+        "district": 27,
+        "neighbor": [
+            26,
+            31,
+            41
+        ]
+    },
+    {
+        "district": 28,
+        "neighbor": [
+            21,
+            24,
+            29,
+            32,
+            30
+        ]
+    },
+    {
+        "district": 29,
+        "neighbor": [
+            24,
+            57,
+            59,
+            35,
+            32,
+            28
+        ]
+    },
+    {
+        "district": 30,
+        "neighbor": [
+            25,
+            28,
+            32,
+            26
+        ]
+    },
+    {
+        "district": 31,
+        "neighbor": [
+            26,
+            30,
+            32,
+            27,
+            26
+        ]
+    },
+    {
+        "district": 32,
+        "neighbor": [
+            28,
+            29,
+            35,
+            31,
+            26,
+            30
+        ]
+    },
+    {
+        "district": 33,
+        "neighbor": [
+            61,
+            58,
+            34,
+            36
+        ]
+    },
+    {
+        "district": 34,
+        "neighbor": [
+            59,
+            33,
+            36,
+            37,
+            35
+        ]
+    },
+    {
+        "district": 35,
+        "neighbor": [
+            29,
+            59,
+            34,
+            37,
+            32
+        ]
+    },
+    {
+        "district": 36,
+        "neighbor": [
+            33,
+            34,
+            38
+        ]
+    },
+    {
+        "district": 37,
+        "neighbor": [
+            34,
+            38,
+            39,
+            40,
+            41,
+            35
+        ]
+    },
+    {
+        "district": 38,
+        "neighbor": [
+            36,
+            37,
+            39
+        ]
+    },
+    {
+        "district": 39,
+        "neighbor": [
+            38,
+            37,
+            40
+        ]
+    },
+    {
+        "district": 40,
+        "neighbor": [
+            39,
+            37,
+            41,
+            45
+        ]
+    },
+    {
+        "district": 41,
+        "neighbor": [
+            27,
+            31,
+            37,
+            40,
+            45,
+            42
+        ]
+    },
+    {
+        "district": 42,
+        "neighbor": [
+            41,
+            46,
+            43
+        ]
+    },
+    {
+        "district": 43,
+        "neighbor": [
+            42,
+            46,
+            47,
+            44
+        ]
+    },
+    {
+        "district": 44,
+        "neighbor": [
+            43,
+            47
+        ]
+    },
+    {
+        "district": 45,
+        "neighbor": [
+            40,
+            41,
+            46
+        ]
+    },
+    {
+        "district": 46,
+        "neighbor": [
+            45,
+            42,
+            43,
+            47
+        ]
+    },
+    {
+        "district": 47,
+        "neighbor": [
+            46,
+            43,
+            44
+        ]
+    },
+    {
+        "district": 48,
+        "neighbor": [
+            7,
+            50,
+            49
+        ]
+    },
+    {
+        "district": 49,
+        "neighbor": [
+            14,
+            48,
+            50,
+            54,
+            53
+        ]
+    },
+    {
+        "district": 50,
+        "neighbor": [
+            48,
+            49,
+            54,
+            55,
+            51,
+            52
+        ]
+    },
+    {
+        "district": 51,
+        "neighbor": [
+            50,
+            52
+        ]
+    },
+    {
+        "district": 52,
+        "neighbor": [
+            51,
+            55
+        ]
+    },
+    {
+        "district": 53,
+        "neighbor": [
+            14,
+            49,
+            57
+        ]
+    },
+    {
+        "district": 54,
+        "neighbor": [
+            49,
+            50,
+            55,
+            56,
+            58,
+            57,
+            53
+        ]
+    },
+    {
+        "district": 55,
+        "neighbor": [
+            52,
+            50,
+            54,
+            56,
+            60
+        ]
+    },
+    {
+        "district": 56,
+        "neighbor": [
+            54,
+            55,
+            60,
+            61,
+            58
+        ]
+    },
+    {
+        "district": 57,
+        "neighbor": [
+            53,
+            54,
+            59,
+            58,
+            29
+        ]
+    },
+    {
+        "district": 58,
+        "neighbor": [
+            57,
+            54,
+            56,
+            61,
+            59
+        ]
+    },
+    {
+        "district": 59,
+        "neighbor": [
+            57,
+            58,
+            34,
+            35,
+            29
+        ]
+    },
+    {
+        "district": 60,
+        "neighbor": [
+            55,
+            56,
+            61
+        ]
+    },
+    {
+        "district": 61,
+        "neighbor": [
+            60,
+            56,
+            58,
+            33
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Problem Background}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}The explanation of the sweet spot}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Problem Setup}{3}{section.2}
+\contentsline {section}{\numberline {3}Design of the Model}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}The Dynamic System of Ebola Infection}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}The Dynamical System of Medication}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}The point which produces maximum batted ball speed}{7}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}The effect of the sweet spot of the corked bat}{10}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}The differences between the wood and aluminum bats }{12}{subsection.3.5}
+\contentsline {section}{\numberline {4}Model 2: Computer Model}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}The effect of the sweet spot of the corked bat}{17}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}The differences between the wood and aluminum bats}{18}{subsection.4.2}
+\contentsline {section}{\numberline {5}Results}{21}{section.5}
+\contentsline {section}{\numberline {6}Strengths and Weaknesses}{21}{section.6}
+\contentsline {subsection}{\numberline {6.1}Model 1}{21}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Model 2}{22}{subsection.6.2}
+\contentsline {section}{\numberline {7}Alternative Approaches and Future Work}{23}{section.7}
+\contentsline {section}{Appendices}{25}{section*.1}

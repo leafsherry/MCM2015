@@ -1,0 +1,307 @@
+[
+    {
+        "key": "Boke",
+        "districtID": 1,
+        "countryID": 1
+    },
+    {
+        "key": "Boffa",
+        "districtID": 2,
+        "countryID": 1
+    },
+    {
+        "key": "Dubereka",
+        "districtID": 3,
+        "countryID": 1
+    },
+    {
+        "key": "Fria",
+        "districtID": 4,
+        "countryID": 1
+    },
+    {
+        "key": "Coyah",
+        "districtID": 5,
+        "countryID": 1
+    },
+    {
+        "key": "Conakry",
+        "districtID": 6,
+        "countryID": 1
+    },
+    {
+        "key": "Forecariah",
+        "districtID": 7,
+        "countryID": 1
+    },
+    {
+        "key": "Kinda",
+        "districtID": 8,
+        "countryID": 1
+    },
+    {
+        "key": "Pita",
+        "districtID": 9,
+        "countryID": 1
+    },
+    {
+        "key": "Dalaba",
+        "districtID": 10,
+        "countryID": 1
+    },
+    {
+        "key": "Labe",
+        "districtID": 11,
+        "countryID": 1
+    },
+    {
+        "key": "Lelouma",
+        "districtID": 12,
+        "countryID": 1
+    },
+    {
+        "key": "Gaoual",
+        "districtID": 13,
+        "countryID": 1
+    },
+    {
+        "key": "Mamou",
+        "districtID": 14,
+        "countryID": 1
+    },
+    {
+        "key": "Tougue",
+        "districtID": 15,
+        "countryID": 1
+    },
+    {
+        "key": "Koubia",
+        "districtID": 16,
+        "countryID": 1
+    },
+    {
+        "key": "Mali",
+        "districtID": 17,
+        "countryID": 1
+    },
+    {
+        "key": "Koundara",
+        "districtID": 18,
+        "countryID": 1
+    },
+    {
+        "key": "Dinguiraye",
+        "districtID": 19,
+        "countryID": 1
+    },
+    {
+        "key": "Dabola",
+        "districtID": 20,
+        "countryID": 1
+    },
+    {
+        "key": "Kouroussa",
+        "districtID": 21,
+        "countryID": 1
+    },
+    {
+        "key": "Siguiri",
+        "districtID": 22,
+        "countryID": 1
+    },
+    {
+        "key": "Mandiana",
+        "districtID": 23,
+        "countryID": 1
+    },
+    {
+        "key": "Faranah",
+        "districtID": 24,
+        "countryID": 1
+    },
+    {
+        "key": "Kankan",
+        "districtID": 25,
+        "countryID": 1
+    },
+    {
+        "key": "Beyla",
+        "districtID": 26,
+        "countryID": 1
+    },
+    {
+        "key": "Lola",
+        "districtID": 27,
+        "countryID": 1
+    },
+    {
+        "key": "Kissidougo",
+        "districtID": 28,
+        "countryID": 1
+    },
+    {
+        "key": "Gueckedou",
+        "districtID": 29,
+        "countryID": 1
+    },
+    {
+        "key": "Kerouane",
+        "districtID": 30,
+        "countryID": 1
+    },
+    {
+        "key": "N'Zerekore",
+        "districtID": 31,
+        "countryID": 1
+    },
+    {
+        "key": "Macenta",
+        "districtID": 32,
+        "countryID": 1
+    },
+    {
+        "key": "Grand Cape Mount",
+        "districtID": 33,
+        "countryID": 2
+    },
+    {
+        "key": "Gbarpolu",
+        "districtID": 34,
+        "countryID": 2
+    },
+    {
+        "key": "Lofa",
+        "districtID": 35,
+        "countryID": 2
+    },
+    {
+        "key": "Bomi",
+        "districtID": 36,
+        "countryID": 2
+    },
+    {
+        "key": "Bong",
+        "districtID": 37,
+        "countryID": 2
+    },
+    {
+        "key": "Montserrado",
+        "districtID": 38,
+        "countryID": 2
+    },
+    {
+        "key": "Margibi",
+        "districtID": 39,
+        "countryID": 2
+    },
+    {
+        "key": "Grand Bassa",
+        "districtID": 40,
+        "countryID": 2
+    },
+    {
+        "key": "Nimba",
+        "districtID": 41,
+        "countryID": 2
+    },
+    {
+        "key": "Grand Gedeh",
+        "districtID": 42,
+        "countryID": 2
+    },
+    {
+        "key": "River Gee",
+        "districtID": 43,
+        "countryID": 2
+    },
+    {
+        "key": "Maryland",
+        "districtID": 44,
+        "countryID": 2
+    },
+    {
+        "key": "Rivercess",
+        "districtID": 45,
+        "countryID": 2
+    },
+    {
+        "key": "Sinoe",
+        "districtID": 46,
+        "countryID": 2
+    },
+    {
+        "key": "Grand Kru",
+        "districtID": 47,
+        "countryID": 2
+    },
+    {
+        "key": "Kambia",
+        "districtID": 48,
+        "countryID": 3
+    },
+    {
+        "key": "Bombali",
+        "districtID": 49,
+        "countryID": 3
+    },
+    {
+        "key": "Port Loko",
+        "districtID": 50,
+        "countryID": 3
+    },
+    {
+        "key": "Freetown",
+        "districtID": 51,
+        "countryID": 3
+    },
+    {
+        "key": "Western Rural",
+        "districtID": 52,
+        "countryID": 3
+    },
+    {
+        "key": "Koinadugu",
+        "districtID": 53,
+        "countryID": 3
+    },
+    {
+        "key": "Tonkolili",
+        "districtID": 54,
+        "countryID": 3
+    },
+    {
+        "key": "Moyamba",
+        "districtID": 55,
+        "countryID": 3
+    },
+    {
+        "key": "Bo",
+        "districtID": 56,
+        "countryID": 3
+    },
+    {
+        "key": "Kono",
+        "districtID": 57,
+        "countryID": 3
+    },
+    {
+        "key": "Kenema",
+        "districtID": 58,
+        "countryID": 3
+    },
+    {
+        "key": "Kailahun",
+        "districtID": 59,
+        "countryID": 3
+    },
+    {
+        "key": "Bonthe",
+        "districtID": 60,
+        "countryID": 3
+    },
+    {
+        "key": "Pujehun",
+        "districtID": 61,
+        "countryID": 3
+    }
+]

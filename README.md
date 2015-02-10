@@ -4,10 +4,6 @@ Declaration
 ------------
 > 
 Date		: 2015 / 02 / 09
-> 
-Author		: WU Tongshuang (HKUST, reach at: twuac@ust.hk)
-            Sun Guanhao	(HKUST)
-            Zhang Pengfei	(HKUST)
 
 Background
 ------------
